@@ -1,36 +1,49 @@
 # Learning-Java
 
-Welcome to **Learning-Java!** This repository serves as my personal space to explore, practice, and improve my Java programming skills. From fundamental syntax to hands-on coding problems, it's all about learning by doing and building confidence in Java.
+Welcome to **Learning-Java!** This repository is a personal initiative to practice and improve my Java programming skills. It includes everything from the basics of Java syntax to more advanced data structures and algorithms (DSA). It's a space to learn by doing and grow through consistent practice.
 
 ---
 
-## 📁 Contents of the repository
+## Project Structure
 
 ### Core Java Practice
-This section includes a variety of beginner-friendly programs focused on core Java topics like:
+This section includes beginner-friendly programs focused on core Java topics like:
 - Data types
-- Loops
-- Conditionals
+- Loops and conditionals
 - Functions
+- Object-oriented programming basics
 
-These examples help reinforce the language basics and build logical thinking.
+These programs are aimed at strengthening foundational Java concepts and logical thinking.
 
 ### Problem-Solving in Java
-As I grow more comfortable with the syntax, I've started tackling coding challenges—including:
-- Pattern printing
+This part contains logic-building exercises such as:
+- Pattern problems
 - Number-based logic
-- Beginner-level algorithmic problems
+- Small algorithmic challenges
 
-This part documents my learning journey through code.
+Each program is a step toward improving problem-solving skills and code fluency.
+
+### Data Structures and Algorithms (DSA)
+As I progress, I'm also focusing on essential DSA topics like:
+- Arrays and Strings
+- Linked Lists
+- Stacks and Queues
+- Recursion
+- Sorting and Searching algorithms
+
+This section will include implementations, practice problems, and my understanding of each concept.
 
 ---
 
-## 🎯 Goals
-- Strengthen my grasp on Java fundamentals through regular practice  
-- Improve problem-solving skills by coding small logic-building exercises  
-- Maintain a clean and organized repository of what I've learned  
-- Share my journey and progress with others who are also learning Java  
+## Goals
+
+- Build a strong foundation in core Java programming
+- Develop problem-solving skills through regular practice
+- Learn and implement key data structures and algorithms
+- Maintain a clean, organized, and well-documented repository
+- Share my journey with others learning Java and DSA
 
 ---
 
 **Let’s learn, experiment, and improve—one Java file at a time!**
+
